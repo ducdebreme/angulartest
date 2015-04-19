@@ -1,0 +1,1657 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"D",
+				"DRUSH_VERSION"
+			],
+			[
+				"ICNG",
+				"icng_filter_topics"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"margin-",
+				"margin-top"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"min-",
+				"min-height"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"rg",
+				"rgba()"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"list-st",
+				"list-style-type"
+			],
+			[
+				"bas",
+				"base-line-height"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"bottom",
+				"border-bottom"
+			],
+			[
+				"pr",
+				"primary_local_tasks"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"it",
+				"item_attributes"
+			],
+			[
+				"padd",
+				"padding-bottom"
+			],
+			[
+				"var",
+				"vars"
+			],
+			[
+				"vars",
+				"variables"
+			],
+			[
+				"arr",
+				"array"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"range",
+				"range_template"
+			],
+			[
+				"fo",
+				"format"
+			],
+			[
+				"fi",
+				"fields"
+			],
+			[
+				"hea",
+				"header	Tag"
+			],
+			[
+				"back",
+				"background-color"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 989,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/stefan/dev/thielstudio2/index1.htm",
+			"settings":
+			{
+				"buffer_size": 3952,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app.js",
+			"settings":
+			{
+				"buffer_size": 335,
+				"line_ending": "Unix",
+				"name": "app.js"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 306.0,
+		"selected_items":
+		[
+			[
+				"prett",
+				"HTMLPrettify"
+			],
+			[
+				"pret",
+				"HTMLPrettify"
+			],
+			[
+				"htm",
+				"Snippet: html"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"gitcom",
+				"Git: Commit"
+			],
+			[
+				"git commi",
+				"Git: Commit"
+			],
+			[
+				"gitadd",
+				"Git: Add Current File"
+			],
+			[
+				"gitad",
+				"Git: Add Current File"
+			],
+			[
+				"gitsta",
+				"Git: Status"
+			],
+			[
+				"gitc",
+				"Git: Commit"
+			],
+			[
+				"gitchec",
+				"Git: Checkout Current File"
+			],
+			[
+				"gitco",
+				"Git: Commit"
+			],
+			[
+				"gitpul",
+				"Git: Pull"
+			],
+			[
+				"setsynmark",
+				"Set Syntax: Markdown"
+			],
+			[
+				"setsymar",
+				"Set Syntax: Markdown"
+			],
+			[
+				"syntmar",
+				"Set Syntax: Markdown"
+			],
+			[
+				"packrem",
+				"Package Control: Remove Package"
+			],
+			[
+				"packre",
+				"Package Control: Remove Package"
+			],
+			[
+				"syntaxmark",
+				"Set Syntax: Markdown"
+			],
+			[
+				"markdow",
+				"Set Syntax: Markdown Extended"
+			],
+			[
+				"packins",
+				"Package Control: Install Package"
+			],
+			[
+				"markdo",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"markd",
+				"Set Syntax: Markdown Extended"
+			],
+			[
+				"mark",
+				"Set Syntax: Markdown"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"apach",
+				"Set Syntax: Apache Conf"
+			],
+			[
+				"confi",
+				"Git: Open Config File"
+			],
+			[
+				"gituns",
+				"Git: Reset (unstage) All"
+			],
+			[
+				"gitun",
+				"Git: Reset (unstage) Current File"
+			],
+			[
+				"gits",
+				"Git: Status"
+			],
+			[
+				"gitdi",
+				"Git: Diff Current File"
+			],
+			[
+				"gitd",
+				"Git: Diff Current File"
+			],
+			[
+				"gitdiff",
+				"Git: Diff Current File"
+			],
+			[
+				"gitpu",
+				"Git: Pull"
+			],
+			[
+				"gitpus",
+				"Git: Push"
+			],
+			[
+				"gitdif",
+				"Git: Diff All"
+			],
+			[
+				"gitcomm",
+				"Git: Commit"
+			],
+			[
+				"gitadf",
+				"Git: Add Current File"
+			],
+			[
+				"gitadcu",
+				"Git: Add Current File"
+			],
+			[
+				"gitcu",
+				"Git: Add Current File"
+			],
+			[
+				"gitfi",
+				"Git: Add Current File"
+			],
+			[
+				"git pus",
+				"Git: Push"
+			],
+			[
+				"git c",
+				"Git: Commit"
+			],
+			[
+				"gitunsta",
+				"Git: Reset (unstage) Current File"
+			],
+			[
+				"git uns",
+				"Git: Reset (unstage) Current File"
+			],
+			[
+				"gita",
+				"Git: Add..."
+			],
+			[
+				"gitst",
+				"Git: Status"
+			],
+			[
+				"gitstau",
+				"Git: Status"
+			],
+			[
+				"gitps",
+				"Git: Push"
+			],
+			[
+				"gitstage",
+				"Git: Reset (unstage) All"
+			],
+			[
+				"git",
+				"Git: Amend Commit"
+			],
+			[
+				"git co",
+				"Git: Commit"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"rub",
+				"Set Syntax: Ruby"
+			],
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"rei",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"gitstat",
+				"Git: Status"
+			],
+			[
+				"ruby",
+				"Set Syntax: Ruby"
+			],
+			[
+				"gitp",
+				"Git: Push"
+			],
+			[
+				"git add",
+				"Git: Add..."
+			],
+			[
+				"gitpush",
+				"Git: Push"
+			],
+			[
+				"gitaddcu",
+				"Git: Add Current File"
+			],
+			[
+				"scss",
+				"Set Syntax: SCSS"
+			],
+			[
+				"",
+				"Git: Reset (hard) HEAD"
+			],
+			[
+				"git comm",
+				"Git: Commit"
+			],
+			[
+				"jso",
+				"Set Syntax: JSON"
+			],
+			[
+				"ja",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"pro",
+				"Project: Save As"
+			],
+			[
+				"proj",
+				"Project: Save As"
+			],
+			[
+				"git push",
+				"Git: Push"
+			],
+			[
+				"gic",
+				"Git: Commit"
+			],
+			[
+				"cas",
+				"Convert Case: Title Case"
+			],
+			[
+				"sass",
+				"Set Syntax: SASS"
+			],
+			[
+				"procl",
+				"Project: Close"
+			],
+			[
+				"prosa",
+				"Project: Save As"
+			],
+			[
+				"ht",
+				"Set Syntax: HTML"
+			],
+			[
+				"git sta",
+				"Git: Status"
+			],
+			[
+				"proje",
+				"Project: Save As"
+			],
+			[
+				"open",
+				"Git: Open..."
+			],
+			[
+				"lower",
+				"Convert Case: Lower Case"
+			],
+			[
+				"gitlo",
+				"Git: Log Current File"
+			],
+			[
+				"case",
+				"Convert Case: Title Case"
+			],
+			[
+				"gitch",
+				"Git: Checkout Current File"
+			],
+			[
+				"git com",
+				"Git: Commit"
+			],
+			[
+				"gitf",
+				"Git: Add Current File"
+			],
+			[
+				"git stat",
+				"Git: Status"
+			],
+			[
+				"gitpull",
+				"Git: Pull"
+			],
+			[
+				"less",
+				"Set Syntax: LESS"
+			],
+			[
+				"git p",
+				"Git: Pull"
+			],
+			[
+				"git ad",
+				"Git: Add..."
+			],
+			[
+				"gitlog",
+				"Git: Log Current File"
+			],
+			[
+				"git ",
+				"Git: Commit"
+			],
+			[
+				"gitduf",
+				"Git: Diff Tool Current File"
+			],
+			[
+				"gitres",
+				"Git: Reset (unstage) Current File"
+			],
+			[
+				"gitre",
+				"Git: Log Current File"
+			],
+			[
+				"git status",
+				"Git: Status"
+			],
+			[
+				"pac",
+				"Package Control: List Packages"
+			],
+			[
+				"pa",
+				"Package Control: List Packages"
+			],
+			[
+				"reind",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"inden",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"inde",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"ind",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"reid",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"in",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"ru",
+				"Set Syntax: Ruby"
+			],
+			[
+				"SASS",
+				"Set Syntax: SASS"
+			]
+		],
+		"width": 575.0
+	},
+	"console":
+	{
+		"height": 383.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/stefan/.cache/.fr-X0c5Tl/bootstrap-master/docs/index.html",
+		"/home/stefan/.cache/.fr-U4lkqN/bootstrap-master/docs/index.html",
+		"/home/stefan/dev/d73shared/sites/early-dance.de/modules/early_user/early_user.module",
+		"/home/stefan/dev/d73shared/sites/early-dance.de/modules/early_dance_frontpage/early_dance_frontpage.module",
+		"/home/stefan/dev/angular-1.3.9/angular.js",
+		"/home/stefan/dev/d73shared/_setup/v1/setup-site.bash",
+		"/home/stefan/dev/d73shared/sites/early-dance.de/themes/early_bs/template.php",
+		"/home/stefan/dev/d73shared/_vagrant/shell/permissions.sh",
+		"/home/stefan/dev/d73shared/sites/early-dance.de/themes/early_bs/bootstrap/docs/index.html",
+		"/home/stefan/dev/d73shared/CHANGELOG.txt",
+		"/home/stefan/dev/d73shared/sites/early-dance.de/themes/early_bs/bootstrap/docs/_includes/footer.html",
+		"/home/stefan/dev/d73shared/sites/early-dance.de/themes/early_bs/bootstrap/docs/_includes/getting-started/template.html",
+		"/home/stefan/dev/d73shared/sites/early-dance.de/themes/early_bs/bootstrap/docs/examples/blog/index.html",
+		"/home/stefan/dev/d73shared/sites/early-dance.de/themes/early_bs/bootstrap/docs/examples/carousel/index.html",
+		"/home/stefan/dev/d73shared/sites/early-dance.de/themes/early_bs/bootstrap/docs/examples/cover/index.html",
+		"/home/stefan/dev/d73shared/sites/early-dance.de/themes/early_bs/bootstrap/docs/examples/dashboard/index.html",
+		"/home/stefan/dev/d73shared/sites/early-dance.de/themes/early_bs/bootstrap/docs/examples/jumbotron/index.html",
+		"/home/stefan/dev/d73shared/sites/early-dance.de/themes/early_bs/bootstrap/docs/examples/navbar-fixed-top/index.html",
+		"/home/stefan/dev/d73shared/sites/early-dance.de/themes/early_bs/bootstrap/docs/examples/navbar-static-top/index.html",
+		"/home/stefan/dev/d73shared/sites/early-dance.de/themes/early_bs/bootstrap/docs/examples/navbar/index.html",
+		"/home/stefan/dev/d73shared/sites/early-dance.de/themes/early_bs/bootstrap/docs/examples/non-responsive/index.html",
+		"/home/stefan/dev/d73shared/sites/early-dance.de/themes/early_bs/bootstrap/docs/examples/offcanvas/index.html",
+		"/home/stefan/dev/d73shared/sites/early-dance.de/themes/early_bs/bootstrap/docs/examples/starter-template/index.html",
+		"/home/stefan/dev/d73shared/sites/early-dance.de/themes/early_bs/bootstrap/docs/examples/sticky-footer-navbar/index.html",
+		"/home/stefan/dev/d73shared/sites/early-dance.de/themes/early_bs/bootstrap/docs/examples/theme/index.html",
+		"/home/stefan/dev/d73shared/sites/early-dance.de/themes/early_bs/bootstrap/docs/examples/tooltip-viewport/index.html",
+		"/home/stefan/dev/d73shared/sites/early-dance.de/modules/early_dance_calendar/early_dance_calendar.views_default.inc",
+		"/home/stefan/Downloads/DataCollection.js-master/test.html",
+		"/home/stefan/dev/d73/sites/early-dance.de/themes/early_bs/templates/page/page.tpl.php",
+		"/home/stefan/dev/d73/sites/early-dance.de/modules/early_user/early_user.info",
+		"/home/stefan/dev/d73/sites/early-dance.de/modules/early_dance_calendar/early_dance_calendar.module",
+		"/home/stefan/dev/docker-containers/lamp55/README.md",
+		"/home/stefan/dev/docker-containers/lamp55/my.cnf",
+		"/home/stefan/Downloads/TruPax8A/install.sh",
+		"/home/stefan/Downloads/TruPax8A/LIESMICH",
+		"/home/stefan/dev/docker-containers/solr4-slim/scripts/start.sh",
+		"/home/stefan/dev/docker-containers/solr3-slim/Dockerfile",
+		"/home/stefan/dev/docker-containers/solr4/scripts/start.sh",
+		"/home/stefan/dev/docker-containers/solr4-slim/Readme.md",
+		"/home/stefan/dev/docker-containers/solr4-slim/Dockerfile",
+		"/home/stefan/dev/docker-containers/lamp55-slim/Readme.md",
+		"/home/stefan/dev/docker-containers/lamp55-slim/Dockerfile",
+		"/home/stefan/dev/docker-containers/lamp55-slim/scripts/start.sh",
+		"/home/stefan/dev/docker-containers/lamp55-slim/phpinfo.php",
+		"/home/stefan/.config/sublime-text-2/Packages/User/MultiMarkdown.sublime-settings",
+		"/home/stefan/.config/sublime-text-2/Packages/MarkdownEditing/MultiMarkdown.sublime-settings",
+		"/home/stefan/dev/docker-containers/README.md",
+		"/home/stefan/dev/docker-containers/mysql-5.6/Readme.md",
+		"/home/stefan/dev/docker-containers/setup-site.bash",
+		"/home/stefan/dev/drupal-7.32/sites/default/settings.php",
+		"/home/stefan/dev/docker-containers/solr4/Dockerfile",
+		"/home/stefan/.config/sublime-text-2/Packages/MarkdownEditing/README.md",
+		"/home/stefan/.config/sublime-text-2/Packages/User/Markdown (Standard).sublime-settings",
+		"/home/stefan/.config/sublime-text-2/Packages/MarkdownEditing/Markdown (Standard).sublime-settings",
+		"/home/stefan/dev/docker-containers/solr4-slim/conf/Readme.md",
+		"/home/stefan/dev/docker-containers/lamp53-slim/phpinfo.php",
+		"/home/stefan/dev/docker-containers/lamp55/Dockerfile",
+		"/home/stefan/dev/docker-containers/lamp53-slim/conf/apache/vhost.conf",
+		"/home/stefan/dev/docker-containers/lamp53-slim/scripts/start.sh",
+		"/home/stefan/dev/docker-containers/lamp53-slim/Dockerfile",
+		"/tmp/tmpTnG0cb-rabbitvcs-HEAD-WORKI.diff",
+		"/home/stefan/dev/docker-mysql/5.6/Dockerfile",
+		"/home/stefan/dev/docker-containers/.git/config",
+		"/home/stefan/dev/docker-containers/lamp53-slim/conf/scripts/start.sh",
+		"/home/stefan/dev/docker-containers/lamp55/conf/php/php.ini",
+		"/home/stefan/dev/docker-containers/.gitignore",
+		"/home/stefan/dev/docker-containers/lamp53/conf/supervisor/supervisord.conf",
+		"/home/stefan/dev/docker-containers/lamp55/conf/supervisor/supervisord.conf",
+		"/home/stefan/dev/docker-containers/lamp53/.ssh/authorized_keys",
+		"/home/stefan/dev/docker-containers/solr3/Dockerfile",
+		"/home/stefan/dev/docker-containers/lamp55/conf/mysql/my.cnf",
+		"/home/stefan/dev/docker-containers/lamp55/scripts/permissions.sh",
+		"/home/stefan/dev/docker-containers/lamp55/conf/apache2/vhost.conf",
+		"/home/stefan/dev/docker-containers/lamp55/scripts/start.sh",
+		"/home/stefan/dev/docker-containers/lamp53/README.md",
+		"/home/stefan/dev/docker-containers/lamp53/scripts/start.sh",
+		"/home/stefan/dev/docker-containers/lamp53/Dockerfile",
+		"/home/stefan/dev/docker-containers/base-14.04/Readme.md",
+		"/home/stefan/dev/docker-containers/base/Dockerfile",
+		"/home/stefan/dev/docker-containers/base/Readme.md",
+		"/home/stefan/dev/docker-containers/lamp53/scripts/permissions.sh",
+		"/home/stefan/dev/docker-containers/solr4/README.md",
+		"/home/stefan/dev/d7_shared/sites/all/modules/views/tests/handlers/views_handler_argument_null.test",
+		"/home/stefan/dev/d7_shared/README.txt",
+		"/home/stefan/dev/d7_shared/modules/simpletest/tests/system_test.info",
+		"/home/stefan/dev/d7_shared/_vagrant/.vagrant/machines/default/virtualbox/action_set_name",
+		"/home/stefan/dev/d7_shared/_vagrant/.vagrant/machines/default/virtualbox/action_provision",
+		"/home/stefan/dev/d7_shared/sites/all/themes/early7zen/sass/styles.scss",
+		"/home/stefan/dev/d7_shared/sites/all/themes/early7zen/css/styles.css",
+		"/home/stefan/dev/d7_shared/sites/all/themes/early7zen/sass/layouts/_responsive.scss",
+		"/home/stefan/dev/d7_shared/_vagrant/Vagrantfile",
+		"/home/stefan/dev/d7_shared/sites/all/drush/aliases.drushrc.php",
+		"/home/stefan/dev/d7_shared/upgrade-early.bash",
+		"/home/stefan/dev/d7_shared/sites/early-dance.de/modules/early_dance_gallery/early_dance_gallery.info",
+		"/home/stefan/dev/d7_shared/sites/early-dance.de/modules/early_dance_gallery/early_dance_gallery.install",
+		"/home/stefan/.config/gtk-3.0/bookmarks",
+		"/home/stefan/dev/d7_shared/sites/all/modules/media_gallery/media_gallery.info",
+		"/home/stefan/dev/d7_shared/sites/all/modules/entityreference_migration/entityreference_migration.drush.inc",
+		"/home/stefan/dev/d7_shared/sites/all/modules/entityreference_migration/entityreference_migration.module",
+		"/home/stefan/tmp/_BACKUP/etc/apache2/sites-available/default",
+		"/home/stefan/tmp/2014-03/2014-03 Strato Backup/etc/apache2/sites-enabled/git",
+		"/home/stefan/dev/d7_shared/sites/early-dance.de/upgrade-early.bash",
+		"/home/stefan/dev/d7_shared/sites/all/modules/views/modules/node.views.inc",
+		"/home/stefan/dev/d7_shared/sites/all/modules/icng_filter/views/icng_filter.views.inc",
+		"/home/stefan/dev/d7_shared/sites/all/modules/icng_filter/views/icng_filter_handler_filter_in_main_responsibility.inc",
+		"/home/stefan/dev/d7_shared/sites/all/modules/icng_filter/icng_filter.info",
+		"/home/stefan/dev/d7_shared/sites/all/modules/icng_filter/icng_filter.module",
+		"/home/stefan/dev/d7_shared/sites/all/modules/views/modules/node/views_handler_filter_node_type.inc",
+		"/home/stefan/dev/d7_shared/sites/all/modules/flag/flag_bookmark/includes/flag_bookmark.views_default.inc",
+		"/home/stefan/dev/d7_shared/sites/all/modules/views/modules/comment.views.inc",
+		"/home/stefan/dev/d7_shared/sites/all/modules/views/help/api-example.html",
+		"/home/stefan/dev/d7_shared/sites/all/modules/legal/views/legal.views.inc",
+		"/home/stefan/dev/d7_shared/sites/all/modules/legal/legal.info",
+		"/home/stefan/dev/d7_shared/sites/all/modules/location/handlers/location_handler_filter_location_country.inc",
+		"/home/stefan/dev/d7_shared/sites/all/modules/legal/legal.module",
+		"/home/stefan/Desktop/git-gitwebconfig.txt",
+		"/home/stefan/dev/d7_shared/_vagrant/etc/000-default",
+		"/home/stefan/.config/sublime-text-2/Packages/User/Ruby.sublime-settings",
+		"/home/stefan/dev/d7_shared/_vagrant/config.yaml",
+		"/home/stefan/.config/sublime-text-2/Packages/User/Plain text.sublime-settings",
+		"/home/stefan/dev/d6_shared/_vagrant/Vagrantfile",
+		"/home/stefan/.config/sublime-text-2/Packages/Git/Git.sublime-settings",
+		"/home/stefan/dev/d7_shared/.gitignore",
+		"/home/stefan/dev/6kLfWH/puphpet/config.yaml",
+		"/home/stefan/dev/6kLfWH/Vagrantfile",
+		"/home/stefan/dev/2DgwQn/puphpet/config.yaml",
+		"/home/stefan/dev/eclipse/boilerplate/dist/assets/css/style.css",
+		"/home/stefan/dev/eclipse/boilerplate/src/scss/style.scss"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/home/stefan/dev/d73shared/sites/early-dance.de/modules",
+			"/home/stefan/dev/d73shared/sites/early-dance.de/themes/early_bs/bootstrap/docs",
+			"/home/stefan/dev/d73shared/sites/early-dance.de/modules",
+			"/home/stefan/dev/d73shared/sites/early-dance.de/themes/early_bs",
+			"/home/stefan/dev/d73shared/_vagrant",
+			"/home/stefan/dev/docker-containers/lamp55",
+			"/home/stefan/dev/docker-containers/mysql-5.6",
+			"/home/stefan/dev/docker-containers",
+			"/home/stefan/dev/docker-containers/lamp55",
+			"/home/stefan/dev/docker-containers",
+			"/home/stefan/dev/docker-containers/lamp53",
+			"/home/stefan/dev/docker-containers/lamp55",
+			"/home/stefan/dev/docker-containers/lamp55/scripts",
+			"/home/stefan/dev/docker-containers",
+			"/home/stefan/dev/d7_shared/_vagrant",
+			"/home/stefan/dev/d7_shared/sites/all/themes/early7zen/sass",
+			"/home/stefan/dev/d7_shared/sites/all/modules/entityreference_migration",
+			"/home/stefan/dev/d7_shared/sites/all/modules/views/modules/taxonomy",
+			"/home/stefan/dev/d7_shared/sites/all/modules",
+			"/home/stefan/dev/d7_shared",
+			"/home/stefan/dev/d7_shared/sites/all/modules",
+			"/home/stefan/dev/eclipse/boilerplate-foundation/src/scss",
+			"/home/stefan/dev/eclipse/boilerplate",
+			"/home/stefan/dev/eclipse/boilerplate/src",
+			"/home/stefan/dev/eclipse/assemble-sass-boilerplate/src",
+			"/home/stefan/dev/eclipse/test-webapp/node_modules/assemble",
+			"/home/stefan/dev/eclipse/test-webapp/node_modules/assemble/node_modules",
+			"/home/stefan/dev/eclipse/early_zu/source/bower_components/foundation/scss",
+			"/home/stefan/dev/eclipse/early_zu/source/bower_components/foundation/scss/foundation/components",
+			"/home/stefan/dev/eclipse/early_zu/source",
+			"/home/stefan/dev/eclipse/early_sp/sass",
+			"/home/stefan/dev/eclipse/early_sp/partials",
+			"/home/stefan/dev/eclipse/early_sp",
+			"/home/stefan/dev/eclipse/early_sp/sass",
+			"/home/stefan/dev/eclipse/early_sp/sass/elements",
+			"/home/stefan/dev/eclipse/early_sp/sass/elements/form",
+			"/home/stefan/dev/eclipse/early_sp/sass",
+			"/home/stefan/dev/eclipse/early_sp",
+			"/home/stefan/dev/eclipse/early_sp/sass",
+			"/home/stefan/dev/eclipse/early_sp",
+			"/home/stefan/dev/eclipse/early_sp/sass",
+			"/home/stefan/dev/eclipse/earlydance/.sass-cache",
+			"/home/stefan/dev/eclipse/earlydance/sass",
+			"/home/stefan/dev/eclipse/earlydance/",
+			"/home/stefan/dev/eclipse/earlydance/sass/",
+			"/home/stefan/dev/eclipse/earlydance/sass/elements",
+			"/home/stefan/dev/eclipse/earlydance/sass",
+			"/home/stefan/dev/eclipse/early_mm/source",
+			"/home/stefan/dev/eclipse/drupal7_shared/sites/early-dance.de/themes/early_bootstrap/bootstrap,*.less",
+			"/home/stefan/dev/eclipse/drupal7_shared/sites/early-dance.de/themes/early_bootstrap/bootstrap",
+			"/home/stefan/dev/eclipse/tests/bfg-romanus/bootstrap/less",
+			"/home/stefan/dev/eclipse/drupal7_shared2/",
+			"/home/stefan/dev/eclipse/drupal7_shared2/sites/blank.www.early-dance.de/themes/BaseBuildingBlocks/css/bootstrap",
+			"/home/stefan/dev/eclipse/drupal7_shared2/sites/blank.www.early-dance.de/themes/BaseBuildingBlocks/ds_layouts/three_column_stacked__fluid",
+			"/home/stefan/dev/eclipse/drupal7_shared2/sites/blank.www.early-dance.de/modules",
+			"/home/stefan/dev/eclipse/drupal7_shared2/sites/blank.www.early-dance.de/themes/BaseBuildingBlocks/css",
+			"/home/stefan/dev/eclipse/drupal7_shared2/sites/all/modules",
+			"/home/stefan/dev/eclipse/drupal7_shared2/sites/early-dance.de/themes/BaseBuildingBlocks/css/bootstrap",
+			"/home/stefan/dev/eclipse/drupal7_shared2/",
+			"/home/stefan/dev/eclipse/drupal7_shared2/sites/early-dance.de/modules/",
+			"/home/stefan/dev/eclipse/drupal7_shared2/sites/early-dance.de/themes/early_mob/sass",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"tabcontent",
+			"000",
+			"1.11.1/jquery.min.js",
+			"id=\"nid[nid]\"",
+			"name=\"nid[nid]\"",
+			"name",
+			"involv",
+			"find",
+			"xc",
+			"xca",
+			"my.c",
+			">",
+			"\n",
+			" ",
+			"samba",
+			"theme",
+			"etc",
+			"RUN ",
+			"wget",
+			"\"$INST",
+			"\n",
+			"/var/www/",
+			"ADD",
+			"xca",
+			"memca",
+			".ssh",
+			"vhos",
+			"permiss",
+			"memor",
+			"log_slow_verbosity",
+			"RUN ",
+			"RUN dpkg",
+			"RUN ",
+			"RUN pear",
+			"RUN ",
+			"tar",
+			"&& ",
+			"&& \\",
+			"&& ",
+			"&& \\",
+			"&&",
+			"&nbsp;",
+			"<p>",
+			"</p>",
+			"memca",
+			"zen-grid",
+			"sass",
+			"h1605404.stratoserver.net",
+			"'",
+			"entityreference-migr",
+			" ",
+			"\n",
+			"'",
+			"expose",
+			"views_handler_filter_node_status",
+			"_rel']",
+			"_rel'",
+			"_rel",
+			"join",
+			"'relationship",
+			"relationship",
+			"Version",
+			"uid",
+			"Example table",
+			"Legal",
+			"legal_accepted",
+			"views_handler_filter_in",
+			"views_handler_fil",
+			"local",
+			"local.",
+			"127.0.0.1 ",
+			"TODO",
+			"bourb",
+			"bourd",
+			"founda",
+			"bourb",
+			"watch",
+			"wat",
+			"proxima-nova",
+			"styl",
+			"bourbon",
+			".dev",
+			"ass",
+			"No source files found",
+			"watch",
+			"sass",
+			"watch",
+			"sass",
+			"compass",
+			"compass:server",
+			"sass",
+			"server",
+			"panel",
+			".panel",
+			"transform",
+			"th",
+			"$header-font-family",
+			"Open Sans",
+			"header-",
+			"Open Sans",
+			"menu",
+			"width",
+			"topbar-bg",
+			"$heading-sizes",
+			"lora",
+			"googleapis",
+			",",
+			"data-slidr=",
+			"</div>\n<div class=\"container\">\n",
+			"clear",
+			"clear-fl",
+			"25em",
+			"focus",
+			"1.5",
+			"fonts",
+			"sass/icomoon",
+			"fonts/",
+			"\n",
+			"shadow",
+			"$sp-max-page-width",
+			"event-list__title",
+			"create-example-sass",
+			"debug",
+			"box-sh",
+			"  @include ",
+			"  background-color:",
+			"no-bull",
+			"$screen-tablet"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"1.10.2/jquery.min.js",
+			"id=\"nid[nid]\"",
+			" ",
+			"vars",
+			"ds_three_column_stacked",
+			"image",
+			""
+		],
+		"reverse": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"settings":
+					{
+						"buffer_size": 989,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								909,
+								909
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 162.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/home/stefan/dev/thielstudio2/index1.htm",
+					"settings":
+					{
+						"buffer_size": 3952,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								395,
+								395
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 2,
+					"file": "app.js",
+					"settings":
+					{
+						"buffer_size": 335,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								277,
+								277
+							]
+						],
+						"settings":
+						{
+							"auto_name": "app.js",
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				0,
+				1,
+				1,
+				2
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			0.5,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.git":
+	{
+		"height": 112.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"earlymod",
+				"sites/early-dance.de/modules/early_user/early_user.module"
+			],
+			[
+				"eaindexhtml",
+				"sites/early-dance.de/themes/early_bs/bootstrap/docs/index.html"
+			],
+			[
+				"ealtemplate",
+				"sites/early-dance.de/themes/early_bs/template.php"
+			],
+			[
+				"tes/early-dance.de/modules/early_dance_calendar/early_dance_calendar.module",
+				"sites/early-dance.de/modules/early_dance_calendar/early_dance_calendar.module"
+			],
+			[
+				"/early_dance_calendar.module",
+				"sites/early-dance.de/modules/early_dance_calendar/early_dance_calendar.module"
+			],
+			[
+				"earinfo",
+				"sites/early-dance.de/modules/early_user/early_user.info"
+			],
+			[
+				"mycnf",
+				"lamp53/conf/mysql/my.cnf"
+			],
+			[
+				"sol3sldoc",
+				"solr3-slim/Dockerfile"
+			],
+			[
+				"solr4s",
+				"solr4/scripts/start.sh"
+			],
+			[
+				"solrdo",
+				"solr3/Dockerfile"
+			],
+			[
+				"viewstesthan",
+				"sites/all/modules/views/tests/handlers/views_handler_argument_null.test"
+			],
+			[
+				"modulessystemtest",
+				"modules/simpletest/tests/system_test.info"
+			],
+			[
+				".vagra",
+				"_vagrant/.vagrant/machines/default/virtualbox/action_set_name"
+			],
+			[
+				".vagrant",
+				"_vagrant/.vagrant/machines/default/virtualbox/action_provision"
+			],
+			[
+				"earlgallin",
+				"sites/early-dance.de/modules/early_dance_gallery/early_dance_gallery.info"
+			],
+			[
+				"drush",
+				"sites/all/drush/aliases.drushrc.php"
+			],
+			[
+				"early_dance_gallery",
+				"sites/early-dance.de/modules/early_dance_gallery/early_dance_gallery.info"
+			],
+			[
+				"entityrefmig",
+				"sites/all/modules/entityreference_migration/entityreference_migration.drush.inc"
+			],
+			[
+				"entityremigra",
+				"sites/all/modules/entityreference_migration/entityreference_migration.module"
+			],
+			[
+				"drushrc",
+				"sites/all/drush/aliases.drushrc.php"
+			],
+			[
+				"icnfi",
+				"sites/all/modules/icng_filter/views/icng_filter.views.inc"
+			],
+			[
+				"responsinc",
+				"sites/all/modules/icng_filter/views/icng_filter_handler_filter_in_main_responsibility.inc"
+			],
+			[
+				"icng_filter_handler_filter_in_main_responsibility",
+				"sites/all/modules/icng_filter/views/icng_filter_handler_filter_in_main_responsibility.inc"
+			],
+			[
+				"drualias",
+				"sites/all/drush/aliases.drushrc.php"
+			],
+			[
+				"drushal",
+				"sites/all/drush/aliases.drushrc.php"
+			],
+			[
+				"vagra",
+				"_vagrant/Vagrantfile"
+			],
+			[
+				"sty",
+				"src/scss/style.scss"
+			],
+			[
+				"style",
+				"src/scss/style.scss"
+			],
+			[
+				"assembjs",
+				"node_modules/assemble/tasks/assemble.js"
+			],
+			[
+				"_panscss",
+				"source/bower_components/foundation/scss/foundation/components/_panels.scss"
+			],
+			[
+				"_panel",
+				"source/bower_components/foundation/scss/foundation/components/_panels.scss"
+			],
+			[
+				"setti",
+				"source/stylesheets/_settings.scss"
+			],
+			[
+				"gridscss",
+				"source/bower_components/foundation/scss/foundation/components/_grid.scss"
+			],
+			[
+				"eading/_extends.scss",
+				"sass/elements/heading/_extends.scss"
+			],
+			[
+				"_typography.scss",
+				"sass/global/variables/_typography.scss"
+			],
+			[
+				"hea.scss",
+				"sass/elements/_heading.scss"
+			],
+			[
+				"typ",
+				"sass/elements/_type.scss"
+			],
+			[
+				"evenscss",
+				"sass/custom/_events.scss"
+			],
+			[
+				"variscs",
+				"sass/global/variables/_colors.scss"
+			],
+			[
+				"play",
+				"pages/custom/playaround.html"
+			],
+			[
+				"grunt",
+				"Gruntfile.js"
+			],
+			[
+				"sasscompfor",
+				"sass/components/form/_mixins.scss"
+			],
+			[
+				"templacomfor",
+				"templates/components/form.html"
+			],
+			[
+				"partiacomfor",
+				"partials/components/form/form--search.html"
+			],
+			[
+				"sasscompfo",
+				"sass/components/_form.scss"
+			],
+			[
+				"shadow",
+				"sass/global/extends/_shadows.scss"
+			],
+			[
+				"c",
+				"config.yml"
+			],
+			[
+				"lay",
+				"sass/layouts/_layout.scss"
+			],
+			[
+				"headimixscs",
+				"sass/elements/heading/_mixins.scss"
+			],
+			[
+				"colorscs",
+				"sass/global/variables/_colors.scss"
+			],
+			[
+				"heascss",
+				"sass/elements/_heading.scss"
+			],
+			[
+				"allscss",
+				"sass/global/variables/_all.scss"
+			],
+			[
+				"typescss",
+				"sass/elements/_type.scss"
+			],
+			[
+				"evenlis",
+				"pages/event_list/index.html"
+			],
+			[
+				"pageseve",
+				"pages/event_list/index.html"
+			],
+			[
+				"evelist",
+				".www/event_list/index.html"
+			],
+			[
+				"layou",
+				"sass/layouts/_layout.scss"
+			],
+			[
+				"colorscss",
+				"sass/global/variables/_colors.scss"
+			],
+			[
+				"typscss",
+				"sass/global/variables/_typography.scss"
+			],
+			[
+				"vari",
+				"source/stylesheets/_variables.scss"
+			],
+			[
+				"type",
+				"source/stylesheets/_type.scss"
+			],
+			[
+				"text",
+				"source/partials/text/_event-detail-description.erb"
+			],
+			[
+				"withma",
+				"source/partials/_address_with_map.erb"
+			],
+			[
+				"evende2",
+				"source/event-detail-2.html.erb"
+			],
+			[
+				"scss",
+				"stylesheets/screen.scss"
+			],
+			[
+				"scre",
+				"stylesheets/screen.scss"
+			],
+			[
+				"grid",
+				"stylesheets/grid.scss"
+			],
+			[
+				"var",
+				"stylesheets/variables.scss"
+			],
+			[
+				"eventp",
+				"sites/early-dance.de/themes/early_bootstrap/bootstrap/event-page-2.html"
+			],
+			[
+				"typeless",
+				"sites/early-dance.de/themes/early_bootstrap/bootstrap/less/type.less"
+			],
+			[
+				"eamobscs",
+				"sites/early-dance.de/themes/early_mob/sass/screen.scss"
+			],
+			[
+				"bootsles",
+				"sites/bfg-romanus.biz/themes/bfgromanus/bootstrap/less/bootstrap.less"
+			],
+			[
+				"configym",
+				"sites/early-dance.de/themes/early_bootstrap/bootstrap/_config.yml"
+			],
+			[
+				"configrb",
+				"sites/early-dance.de/themes/early_mob/config.rb"
+			],
+			[
+				"typless",
+				"sites/early-dance.de/themes/early_bootstrap/bootstrap/less/type.less"
+			],
+			[
+				"varia",
+				"sites/early-dance.de/themes/early_bootstrap/bootstrap/less/variables.less"
+			],
+			[
+				"event-",
+				"sites/early-dance.de/themes/early_bootstrap/bootstrap/event-page.html"
+			],
+			[
+				"livereloa",
+				"sites/all/modules/livereload/livereload.js"
+			],
+			[
+				"gua",
+				"sites/early-dance.de/themes/early_bootstrap/Guardfile"
+			],
+			[
+				"earlyhtml",
+				"sites/early-dance.de/themes/early_bootstrap/bootstrap/_layouts/early.html"
+			],
+			[
+				"earlyless",
+				"sites/early-dance.de/themes/early_bootstrap/bootstrap/less/early-custom.less"
+			],
+			[
+				"grun",
+				"sites/early-dance.de/themes/early_bootstrap/bootstrap/Gruntfile.js"
+			],
+			[
+				"variab",
+				"sites/early-dance.de/themes/BaseBuildingBlocks/css/bootstrap/variables.less"
+			],
+			[
+				"typles",
+				"sites/early-dance.de/themes/early_bootstrap/bootstrap/less/type.less"
+			],
+			[
+				"",
+				"sites/early-dance.de/themes/early_bootstrap/bootstrap/_includes/early-venue-address.html"
+			],
+			[
+				"venu",
+				"sites/early-dance.de/themes/early_bootstrap/bootstrap/_includes/early-venue-address.html"
+			],
+			[
+				"ven",
+				"sites/early-dance.de/themes/early_bootstrap/bootstrap/_includes/early-venue-address.html"
+			],
+			[
+				"earlyboolab",
+				"sites/early-dance.de/themes/early_bootstrap/bootstrap/less/labels.less"
+			],
+			[
+				"earlboobootstr",
+				"sites/early-dance.de/themes/early_bootstrap/bootstrap/less/bootstrap.less"
+			],
+			[
+				"earlybootyless",
+				"sites/early-dance.de/themes/early_bootstrap/bootstrap/less/type.less"
+			],
+			[
+				"earlybootvariab",
+				"sites/early-dance.de/themes/early_bootstrap/bootstrap/less/variables.less"
+			],
+			[
+				"basebuvar",
+				"sites/early-dance.de/themes/BaseBuildingBlocks/css/bootstrap/variables.less"
+			],
+			[
+				"guardf",
+				"sites/bfg-romanus.biz/themes/bfgromanus/Guardfile"
+			],
+			[
+				"hello",
+				"sites/early-dance.de/themes/early_bootstrap/bootstrap/hello.html"
+			],
+			[
+				"_yml",
+				"sites/early-dance.de/themes/early_bootstrap/bootstrap/_config.yml"
+			],
+			[
+				"linkmod",
+				"sites/all/modules/link/link.module"
+			],
+			[
+				"stylless",
+				"sites/bfg-romanus.biz/themes/bfgromanus/style.less"
+			],
+			[
+				"menu",
+				"includes/menu.inc"
+			],
+			[
+				"styleless",
+				"sites/bfg-romanus.biz/themes/bfgromanus/style.less"
+			],
+			[
+				"templa",
+				"themes/seven/template.php"
+			],
+			[
+				"pagetp",
+				"modules/system/page.tpl.php"
+			],
+			[
+				"pagetpl.",
+				"modules/system/page.tpl.php"
+			],
+			[
+				"html.tpl.p",
+				"modules/system/html.tpl.php"
+			],
+			[
+				"starkhtmltp",
+				"sites/early-dance.de/themes/BaseBuildingBlocks/templates/html.tpl.php"
+			],
+			[
+				"page.tpl.php",
+				"themes/seven/page.tpl.php"
+			],
+			[
+				".gi",
+				".gitignore"
+			],
+			[
+				"cust",
+				"sites/early-dance.de/themes/earlyd6b/custom.css"
+			],
+			[
+				"pic",
+				"picasa_transform.pl"
+			],
+			[
+				"tyles",
+				"bootstrap/less/type.less"
+			],
+			[
+				"boots",
+				"bootstrap/less/bootstrap.less"
+			],
+			[
+				"home",
+				"home.html"
+			],
+			[
+				"thumb",
+				"sites/blank.www.early-dance.de/themes/BaseBuildingBlocks/tests/thumbnails.html"
+			],
+			[
+				"thuumbn",
+				"sites/blank.www.early-dance.de/themes/BaseBuildingBlocks/tests/thumbnail-grid.html"
+			],
+			[
+				"nodeco",
+				"sites/blank.www.early-dance.de/themes/BaseBuildingBlocks/tests/node-contact.html"
+			],
+			[
+				"navba",
+				"sites/blank.www.early-dance.de/themes/BaseBuildingBlocks/tests/navbar.html"
+			],
+			[
+				"basebbhtm",
+				"sites/blank.www.early-dance.de/themes/BaseBuildingBlocks/tests/frontpage.html"
+			],
+			[
+				"cus",
+				"sites/blank.www.early-dance.de/themes/BaseBuildingBlocks/css/custom.less"
+			],
+			[
+				"variabless",
+				"sites/blank.www.early-dance.de/themes/BaseBuildingBlocks/css/bootstrap/variables.less"
+			],
+			[
+				"frontpag",
+				"/home/stefan/dev/eclipse/drupal7_shared2/sites/blank.www.early-dance.de/themes/BaseBuildingBlocks/tests/frontpage.html"
+			],
+			[
+				"front",
+				"sites/blank.www.early-dance.de/themes/BaseBuildingBlocks/tests/frontpage.html"
+			],
+			[
+				"basebumen",
+				"sites/blank.www.early-dance.de/themes/BaseBuildingBlocks/functions/menus.inc"
+			],
+			[
+				"basebuildmen",
+				"sites/blank.www.early-dance.de/themes/BaseBuildingBlocks/functions/menus.inc"
+			],
+			[
+				"basestylecss",
+				"sites/blank.www.early-dance.de/themes/BaseBuildingBlocks/css/style.css"
+			],
+			[
+				"blankhtm",
+				"sites/blank.www.early-dance.de/themes/BaseBuildingBlocks/tests/blank.html"
+			],
+			[
+				"basebuilmenu",
+				"sites/blank.www.early-dance.de/themes/BaseBuildingBlocks/functions/menus.inc"
+			],
+			[
+				"early",
+				"sites/blank.www.early-dance.de/modules/early_dance_gallery/early_dance_gallery.install"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"dock",
+				"/home/stefan/dev/_Sublime_projects/docker-containers.sublime-project"
+			],
+			[
+				"d7s",
+				"/home/stefan/dev/_Sublime_projects/D7_shared.sublime-project"
+			],
+			[
+				"d7",
+				"/home/stefan/dev/_Sublime_projects/D7_shared.sublime-project"
+			],
+			[
+				"",
+				"/home/stefan/dev/_Sublime_projects/D7_shared.sublime-project"
+			],
+			[
+				"do",
+				"/home/stefan/dev/_Sublime_projects/docker-containers.sublime-project"
+			],
+			[
+				"d6",
+				"/home/stefan/dev/_Sublime_projects/D6_shared.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 273.0,
+	"status_bar_visible": true
+}
